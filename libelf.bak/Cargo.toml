@@ -1,0 +1,14 @@
+[package]
+name = "libelf"
+description = "Library for unified loading of ELF files across Cronos"
+version = "0.1.0"
+edition = "2024"
+licence = "MIT"
+
+[dev-dependencies]
+
+goblin = { version = "0.10.7", features = ["elf64", "elf32", "endian_fd"], default-features = false }
+
+
+[features]
+raw=[]
