@@ -1,6 +1,6 @@
 [submodule "lib"]
 	path = lib
-	url = https://github.com/LittleHobbitFrodo/constelation-libs
+	url = https://github.com/LittleHobbitFrodo/constellation-libs
 [submodule "bootes"]
 	path = bootes
 	url = https://github.com/LittleHobbitFrodo/Bootes
